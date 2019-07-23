@@ -1,5 +1,5 @@
 <?php
-include 'bomtokped.php';
+include 'bom.php';
 
 $init = new Bom();
 
